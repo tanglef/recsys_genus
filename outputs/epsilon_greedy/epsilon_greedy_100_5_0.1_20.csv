@@ -1,0 +1,2 @@
+batch_size, slate_size, epsilon, min_reviews_per_obs, mean_reward, sum_reward, num_trials
+100, 5, 0.1, 20, 8.133333333333333, 122, 15
