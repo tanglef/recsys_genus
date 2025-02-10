@@ -1,0 +1,5 @@
+Warnings
+=============
+
+- WAWA from crowdkit will not run on the Pl@ntNet database (you can use peerannot library, cf zenodo)
+- Mab2rec can only work offline
